@@ -1,6 +1,13 @@
+**.DS_Store
+vignettes/*.xlsx
+.DS_Store
 inst/doc
+**_versions.log
 .Rproj.user
 .Rhistory
-.Rdata
-.httr-oauth
-.DS_Store
+.RData
+inst/doc
+revdep/checks
+revdep/library
+docs
+R/modular_function_ideas.R
