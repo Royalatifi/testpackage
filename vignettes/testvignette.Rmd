@@ -1,7 +1,13 @@
 ---
-title: "testvignette"
-output: html_document
-date: '2022-11-01'
+title: "Perceptual Maps"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{05-editing_dictionary}
+  %\VignetteEncoding{UTF-8}
+  %\VignetteEngine{knitr::rmarkdown}
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
 
 ```{r setup, include=FALSE}
